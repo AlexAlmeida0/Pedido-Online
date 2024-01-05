@@ -3,7 +3,7 @@ import { Routes, Route } from 'react-router-dom'
 import MainPage from './pages/Main'
 import BurguersPage from './pages/Main/Burguers'
 import PizzasPage from './pages/Main/Pizzas'
-import BebidasPage from './pages/Main/Bedidas'
+import BebidasPage from './pages/Main/Bebidas'
 import SobremesasPage from './pages/Main/Sobremesas'
 
 export function AppRoutes() {
